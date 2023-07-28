@@ -114,5 +114,11 @@ footer{
 
     }
 
+    body{
+        top: 40%;
+        left: 40%;
+        transform: translate(-20%, -20%);
+    }
+
 
 }
